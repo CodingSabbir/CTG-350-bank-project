@@ -17,3 +17,6 @@ depositBtn.addEventListener('click', () => {
         swal("Deposit!", "The task has been successfully completed.", "success");
     }
 });
+
+
+
